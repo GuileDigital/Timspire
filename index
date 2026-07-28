@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Timspire Barbershop in Capilano Centre, Edmonton. Walk-in barbershop in Capilano Centre, Edmonton offering professional cuts, skin fades, beard grooming and hot towel shaves for the whole family. No appointment needed.">
+  <title>Timspire Barbershop | Capilano, Edmonton</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Timspire Barbershop home">
+      <img src="assets/logo.webp" alt="Timspire Barbershop logo">
+    </a>
+    <a class="header-call" href="tel:+15874601611">Call 587-460-1611</a>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <img class="hero-image" src="assets/storefront.webp" alt="Timspire Barbershop storefront at Capilano Centre in Edmonton">
+      <div class="hero-shade"></div>
+      <div class="hero-content">
+        <p class="eyebrow">Capilano Centre · Edmonton</p>
+        <h1>Look sharp.<br>Feel inspired.</h1>
+        <p class="walk-in-note">Walk-In Barbershop <span aria-hidden="true">•</span> No Appointment Needed</p>
+        <p class="hero-copy">Professional cuts, skin fades, beard grooming and hot towel shaves for the whole family. Walk in anytime.</p>
+        <div class="button-row">
+          <a class="button button-gold" href="https://www.google.com/maps/search/?api=1&query=9945+50+Street+NW+Edmonton+AB" target="_blank" rel="noopener">Get directions</a>
+          <a class="button button-outline" href="tel:+15874601611">Call 587-460-1611</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section intro">
+      <p class="eyebrow">Your neighbourhood barbershop</p>
+      <h2>Precision work. Relaxed atmosphere.</h2>
+      <p>Timspire Barbershop brings professional barbering to Capilano Centre. Whether you need a fresh fade, beard grooming, a hot towel shave or a dependable kids cut, the focus is simple: great service and a result you feel good walking out with. No appointment is needed—just walk in during business hours.</p>
+    </section>
+
+    <section class="feature-image">
+      <img src="assets/interior-wide.webp" alt="Modern black, white and gold interior of Timspire Barbershop">
+    </section>
+
+    <section class="section services">
+      <p class="eyebrow">Services</p>
+      <h2>Everything you need to stay fresh.</h2>
+      <div class="service-list">
+        <article><span>01</span><div><h3>Modern cuts</h3><p>Clean, tailored cuts finished to suit your style.</p></div></article>
+        <article><span>02</span><div><h3>Skin fades</h3><p>Smooth blends, crisp edges and a polished finish.</p></div></article>
+        <article><span>03</span><div><h3>Beard grooming</h3><p>Shaping, trimming and cleanup for a balanced look.</p></div></article>
+        <article><span>04</span><div><h3>Hot towel shaves</h3><p>A close, comfortable shave with classic barber care.</p></div></article>
+        <article><span>05</span><div><h3>Kids cuts</h3><p>Patient, friendly service for younger clients.</p></div></article>
+      </div>
+      <p class="walk-in-callout">Walk-ins are always welcome. No appointment required.</p>
+      <div class="button-row service-actions">
+        <a class="button button-gold" href="https://www.google.com/maps/search/?api=1&query=9945+50+Street+NW+Edmonton+AB" target="_blank" rel="noopener">Get directions</a>
+        <a class="button button-outline" href="tel:+15874601611">Call 587-460-1611</a>
+      </div>
+    </section>
+
+    <section class="gallery" aria-label="Timspire Barbershop gallery">
+      <img src="assets/interior-front.webp" alt="Barber chairs and illuminated mirrors inside Timspire Barbershop">
+      <img src="assets/stations.webp" alt="Barber stations and wash chairs inside Timspire Barbershop">
+      <img src="assets/haircut.webp" alt="Finished men's fade haircut at Timspire Barbershop">
+    </section>
+
+    <section class="section visit">
+      <p class="eyebrow">Visit Timspire</p>
+      <h2>Capilano Centre, Edmonton</h2>
+      <div class="visit-card">
+        <div class="visit-block">
+          <h3>Address</h3>
+          <p>Unit 105, 9945 50 Street NW<br>Edmonton, Alberta T6A 0L4</p>
+          <a href="https://www.google.com/maps/search/?api=1&query=9945+50+Street+NW+Edmonton+AB" target="_blank" rel="noopener">Open in Google Maps →</a>
+        </div>
+        <div class="visit-block">
+          <h3>Hours</h3>
+          <dl>
+            <div><dt>Monday–Friday</dt><dd>9:00 AM–7:00 PM</dd></div>
+            <div><dt>Saturday</dt><dd>9:00 AM–5:00 PM</dd></div>
+            <div><dt>Sunday</dt><dd>12:00 PM–5:00 PM</dd></div>
+          </dl>
+        </div>
+        <div class="visit-block">
+          <h3>Contact</h3>
+          <p><a class="phone" href="tel:+15874601611">587-460-1611</a></p>
+          <p><strong>Walk-In Barbershop • No Appointment Needed</strong></p>
+          <p>Come by anytime during business hours.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="closing">
+      <img src="assets/logo.webp" alt="">
+      <h2>Walk in. Leave looking sharp.</h2>
+      <p>Professional cuts, skin fades, beard grooming and hot towel shaves for the whole family. No appointment needed.</p>
+      <div class="button-row closing-actions">
+        <a class="button button-gold" href="https://www.google.com/maps/search/?api=1&query=9945+50+Street+NW+Edmonton+AB" target="_blank" rel="noopener">Get directions</a>
+        <a class="button button-outline" href="tel:+15874601611">Call now</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© <span id="year"></span> Timspire Barbershop · Edmonton, Alberta</p>
+  </footer>
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>
