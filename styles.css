@@ -302,7 +302,7 @@ footer { padding: 28px 18px; border-top: 1px solid var(--line); color: #85857f; 
 .instagram-link {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
+  gap: 0;
   color: var(--gold-light);
   text-decoration: none;
   font-size: .78rem;
@@ -325,6 +325,5 @@ footer { padding: 28px 18px; border-top: 1px solid var(--line); color: #85857f; 
 
 @media (max-width: 520px) {
   .header-actions { gap: 12px; }
-  .instagram-text { display: none; }
   .instagram-icon { width: 22px; height: 22px; }
 }
