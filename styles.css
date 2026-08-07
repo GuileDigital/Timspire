@@ -266,3 +266,28 @@ footer { padding: 28px 18px; border-top: 1px solid var(--line); color: #85857f; 
 @media (max-width: 899px) {
   .walk-in-note { max-width: 620px; }
 }
+
+
+/* Pricing section */
+.pricing h2 { margin-bottom: 42px; }
+.price-list { border-top: 1px solid var(--line); }
+.price-list > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 24px;
+  padding: 21px 0;
+  border-bottom: 1px solid var(--line);
+}
+.price-list span { font-weight: 600; }
+.price-list strong {
+  flex: 0 0 auto;
+  color: var(--gold-light);
+  font-size: 1.12rem;
+  letter-spacing: .02em;
+}
+.pricing-note {
+  margin: 28px 0 0;
+  color: var(--muted);
+  font-size: .9rem;
+}
